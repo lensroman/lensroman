@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lensroman
 - 👀 I’m interested in Frontend Developing
-- 🌱 I’m currently learning React+Redux.
 - 📫 How to reach me 
     e-mail: lensroman@bk.ru
     telegram: @chris_robbinss
